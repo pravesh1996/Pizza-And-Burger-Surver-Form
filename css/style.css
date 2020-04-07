@@ -1,0 +1,64 @@
+body{
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/1250260/pexels-photo-1250260.jpeg?cs=srgb&dl=shallow-focus-photography-of-brown-tree-trunk-1250260.jpg&fm=jpg);
+}
+h1{
+  color: red;
+}
+
+#survey-form{
+
+  width: 800px;
+  margin: 0 auto;
+  background-color: purple;
+  color: white;
+}
+.row-tab{
+  display: block;
+  padding-top: 20px;
+}
+.label-burger{
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+.input-burger{
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+.select-input{
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+.label-select{
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+.labels-radio{
+  vertical-align: top;
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+.input-radio{
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+.checkbox-label{
+  vertical-align: top;
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+.checkbox-input{
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+}
+.button{
+  padding: 20px;
+}
